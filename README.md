@@ -21,9 +21,13 @@ FaaSProfiler has been fully tested on [OpenWhisk](https://github.com/apache/open
 
 ### Configure  FaaSProfiler
 
-After cloning this repo run the one-time configuration:
+On Linux, after cloning this repo run the one-time configuration:
 ```
 bash configure.sh
+```
+For MacOS, you need to run a different scrip:
+```
+configure_mac.sh
 ```
 
 ## Usage Guide
