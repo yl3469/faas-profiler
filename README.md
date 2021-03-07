@@ -25,7 +25,7 @@ On Linux, after cloning this repo run the one-time configuration:
 ```
 bash configure.sh
 ```
-For MacOS, you need to run a different scrip:
+For MacOS, you need to run a different script:
 ```
 configure_mac.sh
 ```

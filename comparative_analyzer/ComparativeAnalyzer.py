@@ -6,7 +6,7 @@
 # LICENSE file in the root directory of this source tree.
 
 from datetime import datetime
-import imp
+import importlib
 from optparse import OptionParser
 import matplotlib.pyplot as plt
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes, mark_inset, zoomed_inset_axes, InsetPosition
